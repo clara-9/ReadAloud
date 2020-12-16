@@ -1,7 +1,6 @@
 
 from google.cloud import texttospeech
 from itertools import chain
-import time
 
 
 def list_languages():
